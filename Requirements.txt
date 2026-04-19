@@ -8,3 +8,4 @@ pypdf                     # PDF text extraction for LangChain
 docx2txt                  # Word document text extraction
 tiktoken                  # Token counting for OpenAI models
 langchain-google-genai
+python-dotenv
