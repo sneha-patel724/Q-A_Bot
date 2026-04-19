@@ -1,11 +1,9 @@
-# DocuChat AI — Python Dependencies
-# Install with: pip install -r requirements.txt
-
-streamlit                 # Web UI framework
-langchain                 # AI orchestration framework
-langchain-community       # Loaders, FAISS integration
-pypdf                     # PDF text extraction for LangChain
-docx2txt                  # Word document text extraction
-tiktoken                  # Token counting for OpenAI models
+streamlit
+langchain
+langchain-community
 langchain-google-genai
+google-generativeai
+pypdf
+docx2txt
+tiktoken
 python-dotenv
